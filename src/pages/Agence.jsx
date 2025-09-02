@@ -58,7 +58,7 @@ const Agence = () => {
       <div id="page1" className="py-1">
         <div
           ref={imageDivRef}
-          className="absolute overflow-hidden lg:h-[20vw] h-[30vw] lg:rounded-3xl rounded-xl lg:w-[15vw] w-[25vw] lg:top-96 -top-80 lg:left-[30vw] left-[30vw]"
+          className="absolute overflow-hidden lg:h-[20vw] h-[40vw] lg:rounded-3xl rounded-xl lg:w-[15vw] w-[35vw] lg:top-96 -top-20 lg:left-[30vw] left-[30vw]"
         >
           <img
             ref={imageRef}
@@ -68,13 +68,13 @@ const Agence = () => {
           />
         </div>
         <div className="relative font-[font2]">
-          <div className="lg:mt-[55vh] mt-[30vh]">
+          <div className="lg:mt-[55vh] mt-[15vh]">
             <h1 className="text-[20vw] text-center uppercase leading-[18vw]">
               Soixan7e <br />
               Douze
             </h1>
           </div>
-          <div className="lg:pl-[40%] lg:mt-20 mt-4 p-3">
+          <div className="lg:pl-[40%] lg:mt-20 mt-55 p-3">
             <p className="lg:text-5xl text-xl leading-tight">
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               Notre curiosité nourrit notre créativité. On reste humbles et on
