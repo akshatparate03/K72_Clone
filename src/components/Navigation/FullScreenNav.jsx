@@ -108,7 +108,7 @@ const FullScreenNav = () => {
             <div className="lg:h-44 h-28 lg:w-1 w-0.5 right-0 rotate-45 origin-top absolute bg-[#D3FD50]"></div>
           </div>
         </div>
-        <div className="py-10 mt-40">
+        <div className="py-10 lg:mt-5 mt-40">
           <div className="link origin-top relative border-t-1 border-white">
             <h1 className="font-[font2] text-7xl lg:text-[5vw] text-center lg:leading-[1.3] lg:pt-1 pt-3 uppercase">
               Projets
