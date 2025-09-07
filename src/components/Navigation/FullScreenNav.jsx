@@ -120,7 +120,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg"
+                  src="/WS---K72.ca---MenuThumbnail-640x290.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -128,7 +128,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
+                  src="/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
                   alt=""
                 />
               </div>
@@ -138,7 +138,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg"
+                  src="/WS---K72.ca---MenuThumbnail-640x290.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -146,7 +146,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
+                  src="/PJC_SiteK72_Thumbnail_640x290-640x290.jpg"
                   alt=""
                 />
               </div>
@@ -163,7 +163,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/teamMembers/CAMILLE_640X290_2-640x290.jpg"
+                  src="/CAMILLE_640X290_2-640x290.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -171,7 +171,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/teamMembers/blank_copie_2-640x290.jpg"
+                  src="/blank_copie_2-640x290.jpg"
                   alt=""
                 />
               </div>
@@ -181,7 +181,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/teamMembers/CAMILLE_640X290_2-640x290.jpg"
+                  src="/CAMILLE_640X290_2-640x290.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -189,7 +189,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/teamMembers/blank_copie_2-640x290.jpg"
+                  src="/blank_copie_2-640x290.jpg"
                   alt=""
                 />
               </div>
@@ -206,7 +206,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/blog/blogImg/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
+                  src="/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -214,7 +214,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/teamMembers/Michele_640x290-640x290.jpg"
+                  src="/Michele_640x290-640x290.jpg"
                   alt=""
                 />
               </div>
@@ -224,7 +224,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/blog/blogImg/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
+                  src="/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b-640x290.png"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -232,7 +232,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/teamMembers/Michele_640x290-640x290.jpg"
+                  src="/Michele_640x290-640x290.jpg"
                   alt=""
                 />
               </div>
@@ -249,7 +249,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/vlcsnap-2021-04-21-16h11m49s996.jpg"
+                  src="/vlcsnap-2021-04-21-16h11m49s996.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -257,7 +257,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg"
+                  src="/WS---K72.ca---MenuThumbnail-640x290.jpg"
                   alt=""
                 />
               </div>
@@ -267,7 +267,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/vlcsnap-2021-04-21-16h11m49s996.jpg"
+                  src="/vlcsnap-2021-04-21-16h11m49s996.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[5vw] text-6xl  text-center lg:leading-[1.3] lg:pt-1 pt-4 uppercase">
@@ -275,7 +275,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="lg:h-20 h-10 rounded-full shrink-0 lg:w-60 w-25 object-cover"
-                  src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg"
+                  src="/WS---K72.ca---MenuThumbnail-640x290.jpg"
                   alt=""
                 />
               </div>
